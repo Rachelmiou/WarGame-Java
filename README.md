@@ -40,12 +40,6 @@ javac src/*.java
 java src.Main
 ```
 
-## Roadmap 🛣️
-- [ ] Improve the card comparison algorithm.
-- [ ] Implement a graphical user interface (GUI) for better interaction.
-- [ ] Expand Poker mode with additional game rules.
-- [ ] Add multiplayer support.
-
 ## License 📜
 This project is for educational and personal use.
 
